@@ -1,4 +1,4 @@
-baseURL = "https://ztor2.github.io"
+baseURL = "https://ztor2.github.io/"
 theme = "terminal"
 languageCode = 'ko-kr'
 title = 'ZTOR2'
