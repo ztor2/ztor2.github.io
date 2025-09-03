@@ -1,6 +1,13 @@
 ---
-title: "Hello Hugo"
+title: "Hugo 블로그 배포 방법"
 date: 2025-09-03
 draft: false
 ---
-테스트 포스트입니다.
+
+Hugo 블로그 배포 방법을 알아봅시다.
+
+```
+python test.py
+```  
+
+테스트
